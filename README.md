@@ -1,5 +1,5 @@
 # Sorting Sensors
-This is a term project from the "Network" university course back in 2016.
+This is a term project from the "Principles of Computer Networks" university course back in 2016.
 
 The objective of this project is to create a program that will sort a given number of sensors, they are to be ordered such that there is no gap between their radius providing maximum coverage. There are 2 algorithms being tested, rigid coverage (maximum coverage) and simple coverage (fastest time to move the sensors).
 
